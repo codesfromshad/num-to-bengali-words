@@ -1,7 +1,10 @@
 {
   "name": "@codesfromshad/num-to-bengali-words",
+  "description": "A utility to convert numbers to Bengali words.",
   "version": "0.0.1",
+  "license": "MIT",
   "author": "codesfromshad",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codesfromshad/num-to-bengali-words.git"
@@ -25,7 +28,6 @@
   "bugs": {
     "url": "https://github.com/codesfromshad/num-to-bengali-words/issues"
   },
-  "description": "A utility to convert numbers to Bengali words.",
   "homepage": "https://github.com/codesfromshad/num-to-bengali-words#readme",
   "keywords": [
     "number",
@@ -34,6 +36,5 @@
     "utilities",
     "math"
   ],
-  "license": "MIT",
   "type": "module"
 }
