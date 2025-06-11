@@ -1,0 +1,39 @@
+{
+  "name": "@codesfromshad/num-to-bengali-words",
+  "version": "0.0.1",
+  "author": "codesfromshad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesfromshad/num-to-bengali-words.git"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "tsup": "^8.5.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "bugs": {
+    "url": "https://github.com/codesfromshad/num-to-bengali-words/issues"
+  },
+  "description": "A utility to convert numbers to Bengali words.",
+  "homepage": "https://github.com/codesfromshad/num-to-bengali-words#readme",
+  "keywords": [
+    "number",
+    "numerical",
+    "conversion",
+    "utilities",
+    "math"
+  ],
+  "license": "MIT",
+  "type": "module"
+}
